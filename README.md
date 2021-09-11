@@ -1,5 +1,6 @@
   👋 Hi, I’m @SanthoshBoinapally
-- 🌱 I’m currently learning Web development @ https://www.hackyourfuture.dk
+- 🌱 I’m currently learning Web development @ https://www.hackyourfuture.dk.
+- 🔍 My linkedIn profile https://www.linkedin.com/in/santhosh-boinapally/
 - 📫 Reach me @ santhoshboinapally@gmail.com.
 
 <!---
