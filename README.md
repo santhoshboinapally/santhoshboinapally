@@ -1,7 +1,7 @@
   👋 Hi, I’m @SanthoshBoinapally
 - 🌱 I’m currently learning Web development @ https://www.hackyourfuture.dk.
 - 🔍 My linkedIn profile [www.linkedin.com](https://www.linkedin.com/in/santhosh-boinapally/)
-- 📫 Reach me @ [www.gmail.com]santhoshboinapally@gmail.com.
+- 📫 Reach me @ [www.gmail.com](santhoshboinapally@gmail.com)
 
 <!---
 santhoshboinapally/santhoshboinapally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
